@@ -1,0 +1,7 @@
+c:\users\three\documents\visual studio 2010\Projects\Экзамен\Подпрограммы\bin\Debug\Подпрограммы.dll
+c:\users\three\documents\visual studio 2010\Projects\Экзамен\Подпрограммы\bin\Debug\Подпрограммы.pdb
+c:\users\three\documents\visual studio 2010\Projects\Экзамен\Подпрограммы\obj\Debug\Подпрограммы.dll
+c:\users\three\documents\visual studio 2010\Projects\Экзамен\Подпрограммы\obj\Debug\Подпрограммы.pdb
+C:\Users\three\Documents\Visual Studio 2010\Projects\Экзамен\Подпрограммы\obj\Debug\Подпрограммы.csprojResolveAssemblyReference.cache
+C:\Users\three\Documents\Visual Studio 2010\Projects\Экзамен\Подпрограммы\obj\Debug\Interop.ADOX.dll
+C:\Users\three\Documents\Visual Studio 2010\Projects\Экзамен\Подпрограммы\obj\Debug\Подпрограммы.csproj.ResolveComReference.cache
